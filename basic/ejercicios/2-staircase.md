@@ -6,7 +6,7 @@ Formar una escalera con el caracter # por ejemplo la escalera de tamaño 6 va se
 >       #
 >      ##
 >     ###
->    ####
->   #####
->  ######
+>   \####
+>  \#####
+> \######
 
